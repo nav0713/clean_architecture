@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "954332705767",
+    "project_id": "todo-clean-arch2024",
+    "storage_bucket": "todo-clean-arch2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954332705767:android:0ee6dc0013b307f8a24342",
+        "android_client_info": {
+          "package_name": "com.example.todo_clean_ach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo_wzPd0_1zWd_xYZoWcQMoGnHbdVYVXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954332705767:android:663c9262eda9a679a24342",
+        "android_client_info": {
+          "package_name": "com.example.todo_clearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo_wzPd0_1zWd_xYZoWcQMoGnHbdVYVXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
